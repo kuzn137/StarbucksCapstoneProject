@@ -9,7 +9,9 @@ provided in dataset. In Features Engineering we explore offers and customer pred
 complete offer. ROC Area Under the Curve is used for scoring as very suitable metrics for binary classification. As Model refinement the Light Gradient Boosting is used, it 
 slightly improves results. 
 
-Files: Starbucks_Capstone_notebook.ipynb
+Files: 
+
+Notebook with code and description: Starbucks_Capstone_notebook.ipynb 
 
 Data:
 
